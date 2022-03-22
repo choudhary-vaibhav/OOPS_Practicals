@@ -10,7 +10,8 @@ class complex
 
     complex()
     {
-
+        real = 0;
+        imaginary = 0;
     }
 
     complex(int val)
